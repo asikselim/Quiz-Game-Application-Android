@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">H5180054_SelimAsik</string>
+    <string name="app_teknoloji">Teknoloji</string>
+    <string name="app_tarih">Tarih</string>
+    <string name="app_ekonomi">Ekonomi</string>
+
+
+
+    <string name="history_question1">Napoleon neden Mısırı işgal etmiştir?</string>
+    <string name="history_question_1_a">Piramitler üzerine bilimsel araştırmalar yapmak için</string>
+    <string name="history_question_1_b">Bölgedeki İngiliz hakimiyetini kırmak için</string>
+    <string name="history_question_1_c">Osmanlının elinde bulundurduğu ticaret yolunu ele geçirmek için</string>
+
+    <string name="history_question2">Yüz Yıl Savaşları hangi iki büyük ülke arasında gerçekleşti?</string>
+    <string name="history_question_2_a">Fransa Krallığı - Genoa Krallığı</string>
+    <string name="history_question_2_b">Fransız Krallığı - Bohemya Krallığı</string>
+    <string name="history_question_2_c">İngiliz Krallığı - Fransız Krallığı</string>
+
+
+    <string name="history_question3">Birinci Fransız İmparatorluğunu kim kurmuştur?</string>
+    <string name="history_question_3_a">Maximillien Robespierre</string>
+    <string name="history_question_3_b">14. Louis</string>
+    <string name="history_question_3_c">Hugh Capet</string>
+
+    <string name="history_question4">Almanların dünyada söz sahibi olduğu dönemleri temsil eden Reich kavramından hareketle, Birinci Reich hangi ülkeydi?</string>
+    <string name="history_question_4_a">Prusya Krallığı</string>
+    <string name="history_question_4_b">Roma-Cermen İmparatorluğu</string>
+    <string name="history_question_4_c">Weimar Cumhuriyeti</string>
+
+    <string name="history_question5">İkinci Dünya Savaşı muharebelerinden birinde, Alman tanklarının karşısına atlı birliklerle çıkan ülke hangisiydi?</string>
+    <string name="history_question_5_a">Macaristan</string>
+    <string name="history_question_5_b">Romanya</string>
+    <string name="history_question_5_c">Polonya</string>
+
+
+    <string name="history_question6">Mustafa Kemal hangi okulda öğrencilik yapmamıştır?</string>
+    <string name="history_question_6_a">Selanik Askeri Rüştiyesi</string>
+    <string name="history_question_6_b">İstanbul Askeri İdadisi</string>
+    <string name="history_question_6_c">İstanbul Harp Okulu</string>
+
+    <string name="history_question7">Mustafa Kemalin ilk görev yeri neresidir?</string>
+    <string name="history_question_7_a">Sofya</string>
+    <string name="history_question_7_b">Çanakkale</string>
+    <string name="history_question_7_c">Şam</string>
+
+    <string name="history_question8">Sümer Devleti nerede kurulmuştur?</string>
+    <string name="history_question_8_a">Mezapotamya</string>
+    <string name="history_question_8_b">Asya</string>
+    <string name="history_question_8_c">Anadolu</string>
+
+    <string name="history_question9">Miryokefelon Savaşında Türk ordusunun başında hangi komutan vardı?</string>
+    <string name="history_question_9_a">Sultan I. Aleddin Keykubad</string>
+    <string name="history_question_9_b">II. Kılıçarslan</string>
+    <string name="history_question_9_c">Sultan Alparslan</string>
+
+
+    <string name="history_question10">Aşağıdakilerden hangisi 1071 Malazgirt Savaşı sonrası kurulan Türk Beyliklerinden biri değildir?</string>
+    <string name="history_question_10_a">Menteşoğulları</string>
+    <string name="history_question_10_b">Germiyanoğulları</string>
+    <string name="history_question_10_c">Saltuklular</string>
+
+
+
+
+
+
+
+
+    <string name="economi_question_1">Dünyanın en genç Merkez Bankası aşağıdakilerden hangisidir?</string>
+    <string name="economi_question_1_a">Şili Merkez Bankası</string>
+    <string name="economi_question_1_b">OECD Merkez Bankası</string>
+    <string name="economi_question_1_c">Avrupa Merkez Bankası</string>
+
+    <string name="economi_question_2">TC. Merkez Bankası hangi yıldan itibaren kamuoyunu parasal hedefler konusunda bilgilendiren parasal program uygulamaya başlamıştır?</string>
+    <string name="economi_question_2_a">1983</string>
+    <string name="economi_question_2_b">1999</string>
+    <string name="economi_question_2_c">2001</string>
+
+
+    <string name="economi_question_3">Aşağıdakilerden hangisi devlet tarafından yasal ödeme aracı olarak çıkarılan ve değerli madenlere dönüştürülemeyen kağıt paradır?",</string>
+    <string name="economi_question_3_a">Kağıt Para</string>
+    <string name="economi_question_3_b">İtibari Para</string>
+    <string name="economi_question_3_c">Mal Para</string>
+
+    <string name="economi_question_4">Aşağıdakilerden hangisi para politikası amaçlarından biri değildir?</string>
+    <string name="economi_question_4_a">Fiyat istikrarı</string>
+    <string name="economi_question_4_b">Yüksek istihdam</string>
+    <string name="economi_question_4_c">Fiyat kontrolü</string>
+
+    <string name="economi_question_5">Hangisi dünyanın en büyük 5 ekonomisi içinde yer almamaktadır?</string>
+    <string name="economi_question_5_a">Fransa</string>
+    <string name="economi_question_5_b">Çin</string>
+    <string name="economi_question_5_c">Rusya</string>
+
+    <string name="economi_question_6">2010 yılı yatırım planına göre kamu yatırımından en büyük payı alan sektör hangisidir?</string>
+    <string name="economi_question_6_a">Ulaştırma</string>
+    <string name="economi_question_6_b">Enerji</string>
+    <string name="economi_question_6_c">Sağlık</string>
+
+    <string name="economi_question_7">IMF ile en son kaçıncı stand-by anlaşması imzalandı?</string>
+    <string name="economi_question_7_a">17</string>
+    <string name="economi_question_7_b">18</string>
+    <string name="economi_question_7_c">19</string>
+
+    <string name="economi_question_8">Aşağıdakilerden hangisi stagflasyon durumunda ortaya çıkan bir iktisadi sonuç değildir?</string>
+    <string name="economi_question_8_a">Aşırı Üretim</string>
+    <string name="economi_question_8_b">İşsizlik</string>
+    <string name="economi_question_8_c">Yetersiz Büyüme Oran</string>
+
+    <string name="economi_question_9">Bir piyasada Turkcell, Vodafone, Avea gibi belli sayıda firmanın bulunması durumunda hangi tür piyasadan söz edilir?</string>
+    <string name="economi_question_9_a">Monopol</string>
+    <string name="economi_question_9_b">Düopol</string>
+    <string name="economi_question_9_c">Oligopol</string>
+
+    <string name="economi_question_10">Bir bankanın ithalatçı lehine ihracatçının bankasına verdiği mektuba ne isim verilir?</string>
+    <string name="economi_question_10_a">Vadeli Kredi</string>
+    <string name="economi_question_10_b">Ciro</string>
+    <string name="economi_question_10_c">Akreditif</string>
+
+
+
+
+
+
+
+    <string name="technology_question_1">8 bit kaç bytetır?</string>
+    <string name="technology_question_1_a">1</string>
+    <string name="technology_question_1_b">10</string>
+    <string name="technology_question_1_c">128</string>
+
+    <string name="technology_question_2">1 kilobyte kaç bytetır?</string>
+    <string name="technology_question_2_a">1000</string>
+    <string name="technology_question_2_b">1024</string>
+    <string name="technology_question_2_c">8</string>
+
+    <string name="technology_question_3">1 gigabyte kaç mb dir?</string>
+    <string name="technology_question_3_a">1000</string>
+    <string name="technology_question_3_b">1024</string>
+    <string name="technology_question_3_c">8</string>
+
+
+    <string name="technology_question_4">Hangisi nesne tabanlı bir programlama dili değildir?</string>
+    <string name="technology_question_4_a">C#</string>
+    <string name="technology_question_4_b">C</string>
+    <string name="technology_question_4_c">C++</string>
+
+    <string name="technology_question_5">Guido van Rossum tarafından tasarlanan programlama dili hangisidir?</string>
+    <string name="technology_question_5_a">Java</string>
+    <string name="technology_question_5_b">Python</string>
+    <string name="technology_question_5_c">Kotlin</string>
+
+    <string name="technology_question_6">Hangisi Apple tarafından geliştirilmiş bir yazılım dilidir?</string>
+    <string name="technology_question_6_a">Swift</string>
+    <string name="technology_question_6_b">Java</string>
+    <string name="technology_question_6_c">React Native</string>
+
+    <string name="technology_question_7">Android Studio IDEsi hangi firma tarafıdnda geliştirilmiştir?</string>
+    <string name="technology_question_7_a">Facebook</string>
+    <string name="technology_question_7_b">Jetbrains</string>
+    <string name="technology_question_7_c">Tesla</string>
+
+    <string name="technology_question_8">Android Cupcake olarak bilinen Android sürümü nedir?</string>
+    <string name="technology_question_8_a">1.0</string>
+    <string name="technology_question_8_b">1.5</string>
+    <string name="technology_question_8_c">1.6</string>
+
+    <string name="technology_question_9">Dünyada en çok kullanılan işletim sistemi hangisidir?</string>
+    <string name="technology_question_9_a">Linux</string>
+    <string name="technology_question_9_b">Windows</string>
+    <string name="technology_question_9_c">MacOS</string>
+
+    <string name="technology_question_10">Googleın telefon modellerine verdiği isim nedir?</string>
+    <string name="technology_question_10_a">Inch</string>
+    <string name="technology_question_10_b">Pixel</string>
+    <string name="technology_question_10_c">Square</string>
+
+</resources>

@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tex"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Red"
+    android:orientation="vertical"
+
+    tools:context=".Activities.CongratsActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kaybettiniz"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:layout_marginBottom="20dp"/>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="287dp"
+        android:layout_height="295dp"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/upsetface"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/txtscore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textSize="30sp"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/txtquesiton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textSize="30sp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/backHomeButton"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/questionbuttonbg"
+        android:text="Ana Ekran Dönüş"
+        android:layout_marginBottom="20dp"
+        />
+
+    <Button
+        android:id="@+id/btnexit"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/questionbuttonbg"
+        android:text="Çıkış" />
+
+</LinearLayout>
